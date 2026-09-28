@@ -1,0 +1,6 @@
+{
+  "name": "Xiên Tôi Đê!",
+  "description": "Game mô phỏng quản lý xe xiên bẩn vỉa hè Hà Nội, phục vụ khách và né trật tự đô thị kịch tính!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

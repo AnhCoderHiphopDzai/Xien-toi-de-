@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing flame / sizzle backdrop -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,22 C48,27 46,33 50,38 C44,36 41,41 42,47 C38,44 35,46 34,51 C32,59 39,64 54,64 C69,64 76,59 74,51 C73,46 70,44 66,47 C67,41 64,36 58,38 C62,33 60,27 54,22 Z" />
+
+    <!-- Skewer 1: Bamboo stick angled left -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M34,80 L38,82 L72,32 L68,30 Z" />
+
+    <!-- Skewer 2: Bamboo stick angled right -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M70,80 L66,82 L32,32 L36,30 Z" />
+
+    <!-- Food on skewer 1: Golden Fishballs and sausages -->
+    <!-- Ball 1 -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M66,35 A5,5 0 1,1 56,35 A5,5 0 1,1 66,35 Z" />
+    <path
+        android:fillColor="#FFAB91"
+        android:pathData="M63,33 A2,2 0 1,1 59,33 A2,2 0 1,1 63,33 Z" />
+
+    <!-- Ball 2 -->
+    <path
+        android:fillColor="#D84315"
+        android:pathData="M57,48 A6,6 0 1,1 45,48 A6,6 0 1,1 57,48 Z" />
+    <path
+        android:fillColor="#FF8A65"
+        android:pathData="M53,46 A2.5,2.5 0 1,1 48,46 A2.5,2.5 0 1,1 53,46 Z" />
+
+    <!-- Sausage on skewer 2 -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M40,36 C37,34 43,26 49,30 C53,33 46,42 40,36 Z" />
+    <!-- Grill marks on sausage -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M43,33 L45,35 M46,31 L48,33"
+        android:strokeWidth="1.2"
+        android:strokeColor="#3E2723" />
+
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M49,46 C46,43 53,36 58,40 C62,43 55,51 49,46 Z" />
+
+    <!-- Street Cart Base & Wheel -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M30,66 L78,66 L75,76 L33,76 Z" />
+    <!-- Cart banner accent: Red/Yellow Vietnam street food style -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M33,68 L75,68 L74,72 L34,72 Z" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M44,68 L64,68 L63,72 L45,72 Z" />
+
+    <!-- Wheels -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M38,78 A4,4 0 1,1 30,78 A4,4 0 1,1 38,78 Z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M35,78 A1.5,1.5 0 1,1 32,78 A1.5,1.5 0 1,1 35,78 Z" />
+
+    <path
+        android:fillColor="#212121"
+        android:pathData="M76,78 A4,4 0 1,1 68,78 A4,4 0 1,1 76,78 Z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M73,78 A1.5,1.5 0 1,1 70,78 A1.5,1.5 0 1,1 73,78 Z" />
+
+    <!-- Little star / chili kick -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M54,16 L56,20 L60,20 L57,23 L58,27 L54,24 L50,27 L51,23 L48,20 L52,20 Z" />
+</vector>
